@@ -12,16 +12,21 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Portfolio of Entor Krasniqi - Software Engineer",
   description:
-    "This is the portfolio of Entor Krasniqi. I am studying ict at metropolia university of applied sciences and i am majoring on software engineering and minoring on cybersecurity.",
-
+    "This is the portfolio of Entor Krasniqi.",
+  icons: {
+    icon: '/favico.ico',  // Your new favicon
+  }
 };
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+      <head>
+       
+      </head>
       <body className={inter.className}>
         <ToastContainer />
-        <main className="min-h-screen relative mx-auto px-6 sm:px-12 lg:max-w-[70rem] xl:max-w-[76rem] 2xl:max-w-[92rem] text-gray-800">
+        <main className="min-h-screen relative mx-auto px-6 sm:px-12 lg:max-w-[70rem] xl:max-w-[76rem] 2xl:max-w-[92rem] text-white">
           <Navbar />
           {children}
           <ScrollToTop />
