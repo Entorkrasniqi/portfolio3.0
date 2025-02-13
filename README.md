@@ -4,7 +4,7 @@ Welcome to my personal portfolio website repository. This website showcases my w
 
 ## About Me
 
-I am a second-year Information Technology student at Metropolia University of Applied Sciences, specializing in software engineering and minoring is cybersecurity. I have experience in project execution, such as network configuration, software applications and web applications. Additionally, I thrive in collaborative environments and excel at problem-solving.
+I am a second-year Information Technology student at Metropolia University of Applied Sciences, specializing in software engineering and minoring in cybersecurity. I have experience in project execution, such as network configuration, software applications and web applications. Additionally, I thrive in collaborative environments and excel at problem-solving.
 
 ## Technologies Used
 
