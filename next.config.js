@@ -1,11 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',  // Static HTML export
-  images: {
-    unoptimized: true,
+  eslint: {
+    ignoreDuringBuilds: true,
   },
-  assetPrefix: '',
-  basePath: '',
 }
 
 module.exports = nextConfig
