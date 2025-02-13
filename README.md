@@ -4,7 +4,7 @@ Welcome to my personal portfolio website repository. This website showcases my w
 
 ## About Me
 
-I am a Software Engineer with a focus on web development. Currently studying ICT at Metropolia University of Applied Sciences, majoring in Software Engineering and minoring in Cybersecurity.
+I am a second-year Information Technology student at Metropolia University of Applied Sciences, specializing in software engineering and my minoring is cybersecurity. I have experience in project execution, such as network configuration, software applications and web applications. Additionally, I thrive in collaborative environments and excel at problem-solving.
 
 ## Technologies Used
 
