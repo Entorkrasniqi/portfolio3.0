@@ -14,7 +14,7 @@ export const metadata = {
   description:
     "This is the portfolio of Entor Krasniqi.",
   icons: {
-    icon: '/favico.ico',  // Your new favicon
+    icon: '/favico.ico',  // Ensure this points to your favicon
   }
 };
 
