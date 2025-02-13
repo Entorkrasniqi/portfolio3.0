@@ -29,6 +29,7 @@ To run this project locally:
 ## Contact
 
 - LinkedIn: [Entor Krasniqi](https://www.linkedin.com/in/entor-krasniqi-055b66159/)
+- Email: [entorkrasniqi99@gmail.com](mailto:entorkrasniqi99@gmail.com)
 
 ## License
 
