@@ -16,7 +16,7 @@ function AboutSection() {
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-16">
         <div className="order-2 lg:order-1">
           <p className="font-medium mb-5 text-white text-xl uppercase tracking-wide">
-            Who I am?
+            Who am I?
           </p>
           <p className="text-white/90 text-sm lg:text-lg leading-relaxed">
             {personalData.description}
